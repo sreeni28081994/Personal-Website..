@@ -1,0 +1,83 @@
+.navbar-nav{
+    margin-left: 420px;
+}
+.believe{
+    margin-top: 573px;
+    margin-left: 90px;
+    
+}
+.image{
+    width:650px;
+    height: 627px;
+    margin-left: 87px;
+    margin-top: 95px;
+
+}
+.one{
+    margin-bottom: 3px;
+}
+.card{
+    position: static;
+    border-radius: 15px;
+    transition: transform 0.5s ;
+    transition-timing-function: linear;
+}
+.born{
+    width: 377px;
+    border-radius: 20px;
+}
+.image2 {
+    width: 311px;
+    height: 203px;
+    cursor: pointer;
+
+}
+.image3{
+    width:211px;
+    cursor: pointer;
+
+}
+.image4{
+    width: 256px;
+    height: 206px;
+    cursor: pointer;
+
+}
+.image5{
+    width: 256px;
+    height: 268px;
+    cursor: pointer;
+}
+.image6{
+    width: 248px;
+    height: 261px;
+    cursor: pointer;
+    
+}
+
+
+.footer{
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    margin-top: 10px;
+    text-align: center;
+    color: yellow;
+}
+.image7{
+    width:350px;
+    height: 324px;
+    transition: transform 0.5s;
+    transition-timing-function: linear;
+    margin-top: 0px;
+}
+span{
+    color: red;
+}
+.image7:hover{
+    transform: rotate(360deg) scale(1.5);
+}
+
+
+
+
